@@ -1,0 +1,3 @@
+http://www.sc.ehu.es/sbweb/fisica/estadistica/otros/enfriamiento/enfriamiento.htm #exp decre
+
+https://srdata.nist.gov/its90/download/type_k.tab #termocupla
